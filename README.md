@@ -9,11 +9,15 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+```
+1.Import the required Python libraries and load the food dataset for diabetic classification.
 
+2.Load the dataset containing food items and their nutritional information.
+
+3.Train the SVM classifier using the training dataset and tune the hyperparameters to improve performance.
+
+4.Test the model using the test dataset and display the classification results and accuracy.
+```
 ## Program:
 ```
 import pandas as pd
@@ -66,7 +70,9 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="1043" height="707" alt="Screenshot 2026-03-23 090501" src="https://github.com/user-attachments/assets/d5058494-bbdd-49cc-acba-6f2cba9a13f2" />
+<img width="984" height="584" alt="Screenshot 2026-03-23 090520" src="https://github.com/user-attachments/assets/07bc1798-4b2d-4414-bbea-594ea285eadb" />
+
 
 
 ## Result:
