@@ -9,7 +9,7 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
+1.  
 2. 
 3. 
 4. 
